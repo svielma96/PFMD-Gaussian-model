@@ -1,4 +1,4 @@
-# 3D Swarm Structure and Speed Analysis in *Anopheles* Mosquitoes
+# 3D Swarm Structure and Speed Analysis and Gaussian Model *Anopheles* Mosquitoes
 
 This repository contains the code used to process, analyze, and visualize 3D mosquito flight data to quantify swarm structure and its relationship with mean speed. It includes time correction, filtering, GMM-based ellipsoid fitting, volume estimation, and model fitting of volume-speed relationships.
 
