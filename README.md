@@ -69,4 +69,17 @@ Download the data from OSF and place in a data/ folder.
 
 Run the scripts
 
+## Bibliography
+
+All references cited in the manuscript and relevant to the analysis pipeline are included in the BibTeX file below:
+
+📄 [My Library.bib](My%20Library.bib)
+
+This file contains citations for:
+
+- Key literature on mosquito swarming behavior and sex ratios  
+
+The `.bib` file can be used directly in LaTeX manuscripts or imported into reference managers (e.g., Zotero, Mendeley, JabRef) for citation tracking and formatting.
+
+
 ## Please note this is a work in progress and adjustments are constantly made. If you encounter any errors please contact me at svielma@itg.be
